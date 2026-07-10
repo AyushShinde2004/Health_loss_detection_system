@@ -4,7 +4,7 @@ This Python script monitors the health bar in a game using Optical Character Rec
 
 ---
 
-## 🚀 Features:
+## 🚀 Features
 
 - 📸 **Screen Capture**: Captures a customizable region of the screen to focus on the health bar.
 - 🔍 **Advanced OCR**: Uses EasyOCR to extract numeric values from the health bar image.
@@ -58,7 +58,6 @@ This script is designed for gamers and developers who need to monitor health bar
 - **Monitoring Frequency**: Adjust the `time.sleep()` interval for faster or slower monitoring.
 
 ---
-
 
 ## 👩‍💻 Contributing
 Feel free to submit issues or pull requests to improve this script.
