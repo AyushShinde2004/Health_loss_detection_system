@@ -21,7 +21,7 @@ This Python script monitors the health bar in a game using Optical Character Rec
 Before running the script, ensure you have the following dependencies installed:
 
 ```bash
-pip install opencv-python-headless easyocr pyautogui numpy
+pip install opencv-python easyocr pyautogui numpy
 ```
 
 ---
