@@ -45,7 +45,7 @@ This script is designed for gamers and developers who need to monitor health bar
 
 ## ⚙️ Configuration
 
-- **Health Bar Region**: Update the `health_bar_region` coordinates to align with your screen setup.
+- **Health Bar Region**: Update the `health_bar_region` coordinates `(left, top, width, height)` to align with your screen setup.
   ```python
   health_bar_region = (1993, 414, 200, 220)
   ```
