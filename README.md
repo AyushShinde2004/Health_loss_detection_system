@@ -34,7 +34,8 @@ This script is designed for gamers and developers who need to monitor health bar
 - **OpenCV** for image processing.
 - **EasyOCR** for text recognition.
 
-### How It Works:
+### How It Works
+
 1. Define the screen region containing the health bar.
 2. Capture the region at regular intervals.
 3. Process the captured image to extract text.
