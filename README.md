@@ -1,6 +1,6 @@
 # 🩺 Health Bar OCR Monitor
 
-This Python script monitors the health bar in a game using Optical Character Recognition (OCR). By capturing a specified region of the screen, it detects health changes in real time, providing insights into in-game health status.
+This Python script monitors a game's health bar using Optical Character Recognition (OCR). By capturing a specified region of the screen, it detects health changes in real time.
 
 ---
 
@@ -39,7 +39,7 @@ This script is designed for gamers and developers who need to monitor health bar
 1. Define the screen region containing the health bar.
 2. Capture the region at regular intervals.
 3. Process the captured image to extract text.
-4. Compare the extracted health value with the previous value to detect changes.
+4. Compare the current health value with the previous value to detect changes.
 5. Display the captured region in a window for real-time visualization.
 
 ---
